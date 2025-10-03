@@ -1,13 +1,12 @@
 # MY-Portfolio
 Full Stack Developer | React.js, Django, Flutter, Python Building interactive web &amp; mobile applications with clean code and modern technologies.
-Perfect 👍 aapke portfolio ke liye ek **complete professional `README.md` file** ready kar di hai. Isme sab kuch include hai – **intro, features, tech stack, folder structure, setup, live demo, preview image, author info & license**.
-Aap is file ko direct apne GitHub repo ke root me `README.md` ke naam se daal dena.
+
 
 ---
 
-## ✅ Final `README.md`
 
-````markdown
+
+
 # 🌐 Iqra Majeed - Portfolio
 
 Welcome to my personal **developer portfolio website** 🚀  
@@ -97,8 +96,8 @@ npm run build
 
 ## 📸 Preview
 
-![Portfolio Screenshot](./preview.png)
-*Add a screenshot named `preview.png` in your repo to display here.*
+<img width="919" height="417" alt="image" src="https://github.com/user-attachments/assets/e61b62e5-44c7-443a-bb2c-f57ee354a710" />
+
 
 ---
 
@@ -112,11 +111,7 @@ npm run build
 
 ---
 
-## 📜 License
 
-This project is **open source** and available under the [MIT License](LICENSE).
-
----
 
 
 
