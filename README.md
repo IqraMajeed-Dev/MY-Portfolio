@@ -1,45 +1,47 @@
-# MY-Portfolio
-Full Stack Developer | React.js, Django, Flutter, Python Building interactive web &amp; mobile applications with clean code and modern technologies.
 
+# 🌟 MY-Portfolio
+
+**Full Stack Developer | React.js, Django, Flutter, Python**  
+Building interactive web & mobile applications with clean code and modern technologies 🚀  
 
 ---
 
+# 🌐 Iqra Majeed - Portfolio  
 
-
-
-# 🌐 Iqra Majeed - Portfolio
-
-Welcome to my personal **developer portfolio website** 🚀  
-This portfolio highlights my **skills, projects, achievements, resume, and ways to connect with me**.  
+Welcome to my personal **developer portfolio website** ✨  
+This portfolio showcases my **skills, projects, achievements, resume, and ways to connect with me**.  
 
 ---
 
 ## 📌 Features
-- 🖥️ **Hero Section** – Profile image, introduction, resume & connect button  
-- 👩‍💻 **About Me** – Education, background & skills  
-- 📂 **Projects** – My full-stack, mobile, and web projects with GitHub & Live Demo links  
+- 🖥️ **Hero Section** – Profile image, tagline, resume & connect buttons  
+- 👩‍💻 **About Me** – Education, background & technical skills  
+- 📂 **Projects** – Full-stack, mobile & web projects with GitHub & Live Demo links  
 - 🏆 **Achievements** – Certifications, awards & recognitions  
 - 📬 **Contact Section** – Gmail, LinkedIn, GitHub links  
-- 📱 **Responsive Design** – Fully optimized for desktop, tablet & mobile  
+- 📱 **Responsive Design** – Optimized for desktop, tablet & mobile  
 
 ---
 
 ## 🛠️ Tech Stack
-This portfolio is built using:
+
+This portfolio is built with:
 
 - **React.js** ⚛️ – Frontend framework  
 - **CSS3 (Flexbox & Grid)** 🎨 – Styling  
-- **React-Scroll** 🔗 – Smooth scrolling navigation  
-- **Vercel / Netlify / GitHub Pages** 🌍 – Deployment  
+- **React-Scroll** 🔗 – Smooth navigation  
+- **React Icons** 🎯 – Modern icons  
+- **GitHub Pages** 🌍 – Deployment  
 
 ---
 
 ## 📂 Folder Structure
+
 ```bash
 portfolio/
 ├── public/
 │   ├── index.html
-│   └── iqra1.jpg       # Profile image
+│   └── iqra1.jpg         # Profile image
 ├── src/
 │   ├── components/
 │   │   ├── Navbar.jsx
@@ -52,18 +54,21 @@ portfolio/
 │   ├── App.js
 │   ├── App.css
 │   └── index.js
-└── package.json
+├── package.json
+└── vite.config.js
 ````
 
 ---
 
 ## 🚀 Getting Started
 
+Follow these steps to run the portfolio locally:
+
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/IqraMajeed-Dev/portfolio.git
-cd portfolio
+git clone https://github.com/IqraMajeed-Dev/MY-Portfolio.git
+cd MY-Portfolio
 ```
 
 ### 2️⃣ Install dependencies
@@ -75,10 +80,10 @@ npm install
 ### 3️⃣ Start the development server
 
 ```bash
-npm start
+npm run dev
 ```
 
-The app will run at **[http://localhost:3000/](http://localhost:3000/)** 🎉
+The app will run at: **[http://localhost:5173/](http://localhost:5173/)** 🎉
 
 ### 4️⃣ Build for production
 
@@ -86,11 +91,17 @@ The app will run at **[http://localhost:3000/](http://localhost:3000/)** 🎉
 npm run build
 ```
 
+### 5️⃣ Deploy to GitHub Pages
+
+```bash
+npm run deploy
+```
+
 ---
 
 ## 🌍 Live Demo
 
-
+🔗 [View Portfolio Website](https://iqramajeed-dev.github.io/MY-Portfolio/)
 
 ---
 
@@ -105,19 +116,19 @@ npm run build
 <img width="944" height="260" alt="image" src="https://github.com/user-attachments/assets/515dd12a-e16b-4d5f-b79e-52bccc9dcfeb" />
 <img width="907" height="348" alt="image" src="https://github.com/user-attachments/assets/80fab04f-0a35-48ae-81aa-5464efb54ce1" />
 
-
-
 ---
 
 ## 👩‍💻 Author
 
 **Iqra Majeed**
 
-* 📧 Email: [iqra37277@gmail.com](mailto:iqra37277@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/iqra-majeed](https://www.linkedin.com/in/iqra-majeed)
-* 🖥️ GitHub: [IqraMajeed-Dev](https://github.com/IqraMajeed-Dev)
+📧 Email: [iqra37277@gmail.com](mailto:iqra37277@gmail.com)
+💼 LinkedIn: [linkedin.com/in/iqra-majeed](https://www.linkedin.com/in/iqra-majeed)
+🖥️ GitHub: [IqraMajeed-Dev](https://github.com/IqraMajeed-Dev)
 
 ---
+
+⭐ If you like this portfolio, don’t forget to **star the repo** on GitHub!
 
 
 
